@@ -22,10 +22,15 @@
     <p>
       My journey in tech is driven by curiosity and a desire to make a real impact. Every day, I strive to learn something new, write better code, and bring value to whatever project I’m working on.
     </p>
-    <p>Get in touch with me through:</p>
-    <p>https://www.linkedin.com/in/alhagie-nyang-688bb4228 </p>
-    <p>alhagienyang13@gmail.com</p>
+    <h2>Get in touch with me through:</h2>
     <p>
+      📧 Email: <a href="mailto:alhagienyang13@gmail.com">alhagienyang13@gmail.com</a>
+    </p>
+    <p>
+      🔗 LinkedIn: <a href="https://www.linkedin.com/in/alhagie-nyang-688bb4228" target="_blank">
+        https://www.linkedin.com/in/alhagie-nyang-688bb4228
+      </a>
+   <p>
       Thanks for stopping by and getting to know a little bit about me!
     </p>
   </div>
